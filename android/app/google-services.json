@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480278663640",
+    "project_id": "flutter-ecommerce-clothe-b0442",
+    "storage_bucket": "flutter-ecommerce-clothe-b0442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480278663640:android:a57c84114eee5ab94f62ad",
+        "android_client_info": {
+          "package_name": "com.gulcint.clothes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480278663640-7tohtb3ab0rqhc6v409jkjmmf90lme3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulcint.clothes",
+            "certificate_hash": "eb21563dc0fb59e3c4cf06029e67efc99d4c9475"
+          }
+        },
+        {
+          "client_id": "480278663640-otu2nap24be9354ronli7b7ogj6087gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNcSEGrSwIzJC4BbeL4YGDDsM2jQAmavQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480278663640-otu2nap24be9354ronli7b7ogj6087gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
